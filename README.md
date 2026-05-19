@@ -1,8 +1,6 @@
-## Himanshu Kumar
+### Himanshu Kumar
 
-M.Tech in Artificial Intelligence at **IIT Patna**. I build ML systems where understanding *why* a model made a prediction matters as much as the prediction itself — currently graph-based, mostly biomedical, increasingly LLM-adjacent.
-
-**📬 Open to AI/ML Engineering and Data Science roles.**
+M.Tech in Artificial Intelligence at **IIT Patna**. I build ML systems where understanding *why* a model made a prediction matters as much as the prediction itself.
 
 ---
 ### Currently building
