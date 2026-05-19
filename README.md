@@ -5,23 +5,11 @@ M.Tech in Artificial Intelligence at **IIT Patna**. I build ML systems where und
 **📬 Open to AI/ML Engineering and Data Science roles.**
 
 ---
+### Currently building
 
-### Thesis — Explainable ADR prediction in polypharmacy
+- **[`finsight`](https://github.com/himanshu-kr7/finsight)** — agentic RAG over SEC filings and earnings calls. Multi-company, multi-year financial Q&A with hybrid retrieval, reranking, and self-correcting workflows.
 
-Predicting harmful drug-drug interactions for patients on multiple medications, with explanations a clinician can actually act on.
-
-- **Graph** — heterogeneous biomedical KG merging PrimeKG and Decagon
-- **Encoder** — HR-GraphSAGE with relation-aware message passing
-- **Decoder** — DistMult for drug-pair link prediction
-- **Explainability** — perturbation-based edge deletion; GNNExplainer as baseline
-
----
-
-### Also building
-
-- **`finsight`** — agentic RAG over SEC filings and earnings calls. Multi-company, multi-year financial Q&A with hybrid retrieval, reranking, and self-correcting workflows.
-- Retrieval and evaluation pipelines for production LLM apps
-- HPC workflows for GNN training on heterogeneous graphs
+- **[`whyadr`](https://github.com/himanshu-kr7/whyadr)** — explainable AI, adverse drug reaction (ADR) prediction in polypharmacy. Heterogeneous biomedical knowledge graph. *M.Tech thesis.*
 
 ---
 
